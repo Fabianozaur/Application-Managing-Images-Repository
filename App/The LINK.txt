@@ -1,0 +1,3 @@
+fileLocation C:\Users\Cata\Desktop\Anul 1\OOP\Assigment 8\Details for Private investigations\Repo.txt
+mylistLocation C:\Users\Cata\Desktop\fodor\Carantina\ass9\Project1\Project1\Repo1.csv
+mylistLocation C:\Users\Cata\Desktop\fodor\Carantina\ass9\Project1\Project1\Repos.html

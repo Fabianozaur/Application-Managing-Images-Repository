@@ -1,0 +1,35 @@
+﻿  FileRepository.cpp
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\FileRepository.cpp(37,18): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\FileRepository.cpp(93,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Main.cpp(12,38): error C2440: 'initializing': cannot convert from 'initializer list' to 'Service'
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Main.cpp(12,38): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Main.cpp(17,18): error C2371: 'repository': redefinition; different basic types
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Main.cpp(10): message : see declaration of 'repository'
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Main.cpp(33,2): warning C4551: function call missing argument list
+  Repository.cpp
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Repository.cpp(19,18): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Repository.cpp(60,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Service.cpp
+  Tests.cpp
+  UI.cpp
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(54,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(64,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(76,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(79,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(120,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(153,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(163,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(174,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(177,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(204,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(220,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(225,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(229,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(240,42): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(246,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(258,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\UI.cpp(29,9): warning C4101: 'command': unreferenced local variable
+  Generating Code...
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\Repository.cpp(13): warning C4715: 'memoryRepository::findImage': not all control paths return a value
+C:\Users\Cata\Desktop\Anul 1\OOP\Assignment 9\FileRepository.cpp(80): warning C4715: 'FileRepository::updateImage': not all control paths return a value

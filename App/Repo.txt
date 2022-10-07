@@ -1,0 +1,2 @@
+12x24, 4:8,2,12, Wallpaper.jpg
+12x25, 4:8,2.5,12, Wallpaper2.jpg
